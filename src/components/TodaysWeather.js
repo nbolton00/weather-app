@@ -10,13 +10,21 @@ import React from 'react';
 // `;
 
 export const TodaysWeather = (props) => {
+    const iconImageUrl = `../../${props.icon}.svg`;
     return (
-        <div>
-            
-            <p>{props.icon}</p>
-            <p>{props.description}</p>
-            <p>{props.temp}</p>
-            <p>{props.feelslike}</p>
+        <div className="weatherToday">
+            <div className="todaysDate">
+                <h2>Sun 24</h2>
+                <p>Today in Vancouver, BC</p>
+            </div>
+            <div className="todaysIcon">
+                <img src={iconImageUrl} alt={props.summary}/>
+                <p>{props.description}</p>
+            </div>
+            <div className="todaysTemp">
+                <h3 className="display">{props.temp}</h3>
+                <p>{props.feelslike}</p>
+            </div>
         </div>
     )
 }

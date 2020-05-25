@@ -30,6 +30,11 @@ h3 {
   font-size: 1.25rem;
 }
 
+.display {
+  font-size: 3.75rem;
+  margin:0;
+}
+
 
 .App-header {
   background-color: #3083dc;
@@ -44,21 +49,42 @@ h3 {
 .App-container {
   background: white;
   border-radius: 16px;
-  width: 620px;
+  max-width: 620px;
   padding: 1.5rem;
   -webkit-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
   box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
 }
 
-.Weather-today {
+.weatherToday {
   color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 620px;
+  margin-bottom: 2rem;
 }
-.Weather-today h2 {
+
+.weatherToday div {
+  flex: 1;
+}
+
+.todaysIcon, .todaysTemp {
+  text-align: center;
+}
+.weatherToday h2 {
   margin: 0;
 }
-.Weather-today p {
+.weatherToday p {
   margin: 0;
+}
+
+.todaysTemp {
+  border-left: 1px dotted #dfe3e8;
+}
+
+.todaysIcon img {
+  width: 200px;
 }
 
 .Weather-daily {
