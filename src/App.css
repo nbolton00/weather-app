@@ -4,9 +4,15 @@
   }
 }
 
+/* apply a natural box layout model to all elements, but allowing components to change */
 html {
+  box-sizing: border-box;
   font-size: 16px;
 }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   font-family: "Nunito", sans-serif;
   color: #0D3B66;
@@ -46,22 +52,12 @@ h3 {
   justify-content: center;
 }
 
-.App-container {
-  background: white;
-  border-radius: 16px;
-  max-width: 620px;
-  padding: 1.5rem;
-  -webkit-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
-  box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
-}
-
 .weatherToday {
   color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 620px;
+  width: 620px;
   margin-bottom: 2rem;
 }
 
@@ -87,7 +83,17 @@ h3 {
   width: 200px;
 }
 
-.Weather-daily {
+.dailyContainer {
+  background: white;
+  border-radius: 16px;
+  width: 620px;
+  padding: 1.5rem;
+  -webkit-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
+  box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.25);
+}
+
+.dailyWeather {
   display: flex;
   justify-content: center;
 }
@@ -105,25 +111,28 @@ h3 {
   border-right: none;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  .App-container {
-    width: 83%;
+  .dailyContainer {
+    width: -webkit-calc(100% - 38px);
+    width:    -moz-calc(100% - 38px);
+    width:         calc(100% - 38px);
+    margin-bottom: 2rem;;
   }
-  .Weather-daily {
+
+  .weatherToday {
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    width: -webkit-calc(100% - 38px);
+    width:    -moz-calc(100% - 38px);
+    width:         calc(100% - 38px);
+  }
+  .todaysDate {
+    min-width: 100%;
+    margin-bottom: 1rem;
+  }
+  .dailyWeather {
     flex-direction: column;
   }
 
