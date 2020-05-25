@@ -12,10 +12,11 @@ import React from 'react';
 export const TodaysWeather = (props) => {
     return (
         <div>
+            
             <p>{props.icon}</p>
-            <p>{props.temp}</p>
-            <h1>{props.summary}</h1>
             <p>{props.description}</p>
+            <p>{props.temp}</p>
+            <p>{props.feelslike}</p>
         </div>
     )
 }
