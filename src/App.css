@@ -92,6 +92,19 @@ h3 {
   justify-content: center;
 }
 
+.dailyItem {
+  display: flex; 
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border-right: 1px dotted #dfe3e8;
+  padding: 0 1.2rem;
+}
+
+.dailyItem:last-child {
+  border-right: none;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -102,5 +115,28 @@ h3 {
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .App-container {
+    width: 83%;
+  }
+  .Weather-daily {
+    flex-direction: column;
+  }
+
+  .dailyItem {
+    flex-direction: row;
+    border-right: none;
+    border-bottom: 1px dotted #dfe3e8;
+    padding: 0;
+    justify-content: space-between;
+  }
+  
+  .dailyItem:last-child {
+    border-right: none;
+    border-bottom: none;
   }
 }
