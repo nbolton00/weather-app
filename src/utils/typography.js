@@ -1,4 +1,4 @@
-export const primaryFont = '"Montserrat", sans-serif';
+export const primaryFont = '"Nunito", sans-serif';
 
 export const typeScale = {
     header1: "4.1875rem",

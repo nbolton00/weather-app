@@ -1,13 +1,10 @@
 import React from 'react';
 import styled from "styled-components";
-import { defaultTheme } from "../utils";
-import { typeScale } from "../utils";
+// import { defaultTheme } from "../utils";
+// import { typeScale } from "../utils";
 
 
 const WeatherContainer = styled.div`
-    color:  ${defaultTheme.textColor};
-    font-size: ${typeScale.paragraph};
-    font-family: ${defaultTheme.primaryFont};
     display: flex; 
     flex-direction: row;
     justify-content: flex-start;

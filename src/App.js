@@ -13,13 +13,16 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
+        <TodaysWeather icon="icon" temp="18" summary="Hot" description="Well hot"></TodaysWeather>
         <div className="App-container">
-          <TodaysWeather icon="icon" temp="18" summary="Hot" description="Well hot"></TodaysWeather>
-          <div>
-            <DailyWeather day="Monday" temp="20" icon="icon"></DailyWeather>
-            <DailyWeather day="Tuesday" temp="18" icon="icon"></DailyWeather>
-            <DailyWeather day="Wednesday" temp="17" icon="icon"></DailyWeather>
-          </div>
+            <h2>Next 7 days...</h2>
+            <DailyWeather day="Mon" temp="20" icon="icon"></DailyWeather>
+            <DailyWeather day="Tue" temp="18" icon="icon"></DailyWeather>
+            <DailyWeather day="Wed" temp="17" icon="icon"></DailyWeather>
+            <DailyWeather day="Thu" temp="20" icon="icon"></DailyWeather>
+            <DailyWeather day="Fri" temp="18" icon="icon"></DailyWeather>
+            <DailyWeather day="Sat" temp="17" icon="icon"></DailyWeather>
+            <DailyWeather day="Sun" temp="17" icon="icon"></DailyWeather>
         </div>
       </div>
       
