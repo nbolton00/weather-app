@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>01n</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mobile" transform="translate(-247.000000, -60.000000)" fill="#F5F6F8" fill-rule="nonzero">
-            <g id="01n" transform="translate(246.000000, 60.000000)">
-                <path d="M26.84,18.63 C24.0473673,23.7981802 18.2798866,26.6213985 12.4852025,25.6567641 C6.69051831,24.6921298 2.14868375,20.1527319 1.18094,14.3585662 C0.213196257,8.56440052 3.03331914,2.79540565 8.2,0 C5.3092007,5.34985206 6.27579689,11.963205 10.5768131,16.2619138 C14.8778293,20.5606226 21.4917,21.5236697 26.84,18.63 Z" id="path-1"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 45.4" style="enable-background:new 0 0 26 45.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5F6F8;}
+</style>
+<title>01n</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Mobile" transform="translate(-247.000000, -60.000000)">
+		<g transform="translate(246.000000, 60.000000)">
+			<path id="path-1" class="st0" d="M26.8,28.4c-2.8,5.2-8.6,8-14.4,7c-5.8-1-10.3-5.5-11.3-11.3S3,12.6,8.2,9.8
+				c-2.9,5.3-1.9,12,2.4,16.3S21.5,31.3,26.8,28.4z"/>
+		</g>
+	</g>
+</g>
 </svg>

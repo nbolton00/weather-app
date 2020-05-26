@@ -1,25 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="33px" viewBox="0 0 41 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>02n</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="100%" y1="24.4627002%" x2="0%" y2="75.5372998%" id="linearGradient-1">
-            <stop stop-color="#F5F6F8" offset="0%"></stop>
-            <stop stop-color="#DFE3E8" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="18.8371844%" y1="78.5134481%" x2="79.402145%" y2="35.2543785%" id="linearGradient-2">
-            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="1%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mobile" transform="translate(-252.000000, -51.000000)" fill-rule="nonzero">
-            <g id="02n" transform="translate(251.000000, 51.000000)">
-                <path d="M40.5100252,22.69 C40.5100252,28.166322 36.1059277,32.6242842 30.63,32.691033 L10.88,32.691033 C5.98575033,32.7256065 1.81087763,29.1552481 1.08668767,24.3147423 C0.36249771,19.4742365 3.30963121,14.838352 8,13.44 C8.5081948,8.37920859 12.7341862,4.50610042 17.82,4.44 C22.6785077,4.35845113 26.8508074,7.87736097 27.59,12.68 L30.66,12.68 C36.1280761,12.762027 40.5160839,17.2213121 40.5100252,22.69 Z" id="path-2" fill="url(#linearGradient-1)"></path>
-                <path d="M42,13.39 C39.9869214,17.0897255 35.8496906,19.1064409 31.6952024,18.4131291 C27.5407141,17.7198173 24.2825529,14.4689397 23.5799453,10.3160134 C22.8773376,6.16308717 24.884789,2.02135341 28.58,0 C26.9355087,3.06147891 27.0185173,6.76143373 28.7986535,9.74608104 C30.5787898,12.7307284 33.7948106,14.5620575 37.27,14.57 C38.9202231,14.5758085 40.5458772,14.1702542 42,13.39 Z" id="path-4" fill="#B6B9BD"></path>
-                <path d="M28.1700344,26.71 C28.1756092,30.0965411 25.4464342,32.8525164 22.06,32.8802889 L9.85,32.8802889 C8.23494429,32.8879823 6.68329781,32.2519918 5.5384553,31.1127797 C4.39361279,29.9735675 3.74979742,28.4250754 3.74979742,26.81 C3.74328943,25.1941061 4.38864332,23.6438147 5.54,22.51 C6.24543697,21.8101665 7.11018792,21.2920022 8.06,21 C8.37980928,17.87671 10.9906284,15.4895525 14.13,15.45 C17.1218602,15.4161769 19.6813835,17.5917717 20.13,20.55 L22.03,20.55 C25.424261,20.5610204 28.1700344,23.3157211 28.1700344,26.71 L28.1700344,26.71 Z" id="Path" fill="url(#linearGradient-2)"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45.4 45.4" style="enable-background:new 0 0 45.4 45.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path-2_1_);}
+	.st1{fill:#B6B9BD;}
+	.st2{fill:url(#Path_1_);}
+</style>
+<title>02n</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Mobile" transform="translate(-252.000000, -51.000000)">
+		<g transform="translate(251.000000, 51.000000)">
+			
+				<linearGradient id="path-2_1_" gradientUnits="userSpaceOnUse" x1="-277.4661" y1="23.4198" x2="-278.4661" y2="23.9305" gradientTransform="matrix(39.5324 0 0 28.2527 11012.3086 -643.0862)">
+				<stop  offset="0" style="stop-color:#F5F6F8"/>
+				<stop  offset="1" style="stop-color:#DFE3E8"/>
+			</linearGradient>
+			<path id="path-2" class="st0" d="M42.7,28.9c0,5.5-4.4,9.9-9.9,10H13.1c-4.9,0-9.1-3.5-9.8-8.4s2.2-9.4,6.9-10.8
+				c0.5-5.1,4.7-8.9,9.8-9c4.9-0.1,9,3.4,9.8,8.2h3.1C38.3,19,42.7,23.5,42.7,28.9z"/>
+			<path id="path-4" class="st1" d="M44.2,19.6c-2,3.7-6.2,5.7-10.3,5s-7.4-3.9-8.1-8.1s1.3-8.3,5-10.3C29.1,9.3,29.2,13,31,16
+				s5,4.8,8.5,4.8C41.1,20.8,42.7,20.4,44.2,19.6z"/>
+			
+				<linearGradient id="Path_1_" gradientUnits="userSpaceOnUse" x1="-273.7573" y1="34.5645" x2="-273.1517" y2="34.1319" gradientTransform="matrix(24.4203 0 0 17.4307 6695.7388 -567.1227)">
+				<stop  offset="1.000000e-02" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Path" class="st2" d="M30.4,32.9c0,3.4-2.7,6.1-6.1,6.2H12.1c-1.6,0-3.2-0.6-4.3-1.8C6.7,36.2,6,34.6,6,33
+				c0-1.6,0.6-3.2,1.8-4.3c0.7-0.7,1.6-1.2,2.5-1.5c0.3-3.1,2.9-5.5,6.1-5.6c3,0,5.6,2.1,6,5.1h1.8C27.6,26.8,30.4,29.6,30.4,32.9
+				L30.4,32.9z"/>
+		</g>
+	</g>
+</g>
 </svg>

@@ -21,6 +21,7 @@ body {
 }
 p {
   font-size: 16px;
+  margin: 0.75rem 0;
 }
 
 h1 {
@@ -31,6 +32,7 @@ h2 {
   font-size: 1.5rem;
   font-weight: 700;
   margin-top: 0;
+  margin-bottom: .75rem;
 }
 h3 {
   font-size: 1.25rem;
@@ -79,6 +81,11 @@ h3 {
   border-left: 1px dotted #dfe3e8;
 }
 
+
+.todaysIcon p {
+  margin-top: -1.5rem;
+}
+
 .todaysIcon img {
   width: 100%;
   padding: 0 1.5rem;
@@ -110,6 +117,10 @@ h3 {
 
 .dailyItem:last-child {
   border-right: none;
+}
+
+.dailyItem img {
+  height: 2.5rem;
 }
 
 

@@ -1,31 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>13d</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="100%" y1="24.452582%" x2="0%" y2="75.547418%" id="linearGradient-1">
-            <stop stop-color="#F5F6F8" offset="0%"></stop>
-            <stop stop-color="#DFE3E8" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="19.2358248%" y1="78.3581207%" x2="79.50245%" y2="35.4258566%" id="linearGradient-2">
-            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="1%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#F5F6F8" offset="0%"></stop>
-            <stop stop-color="#DFE3E8" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mobile" transform="translate(-278.000000, -9.000000)" fill-rule="nonzero">
-            <g id="13d" transform="translate(278.000000, 9.000000)">
-                <path d="M39.72,18.74 C39.72,24.216322 35.3159277,28.6742842 29.84,28.740245 L10.09,28.740245 C5.21591357,28.7571709 1.06530266,25.2001008 0.336024639,20.3808512 C-0.393253385,15.5616016 2.51906469,10.9357263 7.18,9.51 C7.6881948,4.44920859 11.9141862,0.576100418 17,0.51 C21.8585077,0.428451133 26.0308074,3.94736097 26.77,8.75 L29.84,8.75 C35.3120344,8.81566678 39.7149216,13.267574 39.72,18.74 L39.72,18.74 Z" id="path-2" fill="url(#linearGradient-1)"></path>
-                <path d="M27.38,22.76 C27.3856092,26.1465411 24.6564342,28.9025164 21.27,28.93 L9.07,28.93 C6.00628864,29.0056508 3.36517967,26.7892839 2.90796056,23.7589372 C2.45074144,20.7285905 4.32035322,17.8316455 7.27,17 C7.58980928,13.87671 10.2006284,11.4895525 13.34,11.45 C16.3285939,11.4154554 18.8868993,13.5857511 19.34,16.54 L21.23,16.54 C22.8724485,16.5425884 24.4458513,17.2009913 25.6006486,18.3689326 C26.7554459,19.536874 27.3959999,21.1176274 27.38,22.76 Z" id="Path" fill="url(#linearGradient-2)"></path>
-                <circle id="path-5" fill="url(#linearGradient-3)" cx="16.9" cy="38.59" r="1.32"></circle>
-                <circle id="path-7" fill="url(#linearGradient-3)" cx="24.39" cy="35.79" r="1.87"></circle>
-                <circle id="path-9" fill="url(#linearGradient-3)" cx="7.55" cy="33.92" r="1.87"></circle>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45.4 45.4" style="enable-background:new 0 0 45.4 45.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path-2_1_);}
+	.st1{fill:url(#Path_1_);}
+	.st2{fill:url(#path-5_1_);}
+	.st3{fill:url(#path-7_1_);}
+	.st4{fill:url(#path-9_1_);}
+</style>
+<title>13d</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Mobile" transform="translate(-278.000000, -9.000000)">
+		<g transform="translate(278.000000, 9.000000)">
+			
+				<linearGradient id="path-2_1_" gradientUnits="userSpaceOnUse" x1="-278.9596" y1="19.1565" x2="-279.9596" y2="19.6675" gradientTransform="matrix(39.4955 0 0 28.2317 11060.75 -529.9571)">
+				<stop  offset="0" style="stop-color:#F5F6F8"/>
+				<stop  offset="1" style="stop-color:#DFE3E8"/>
+			</linearGradient>
+			<path id="path-2" class="st0" d="M42.4,21.2c0,5.5-4.4,9.9-9.9,10H12.8c-4.9,0-9-3.5-9.8-8.4S5.2,13.4,9.9,12
+				c0.5-5.1,4.7-9,9.8-9c4.9-0.1,9,3.4,9.8,8.2h3.1C38,11.3,42.4,15.7,42.4,21.2L42.4,21.2z"/>
+			
+				<linearGradient id="Path_1_" gradientUnits="userSpaceOnUse" x1="-275.3115" y1="30.0368" x2="-274.7089" y2="29.6075" gradientTransform="matrix(24.5409 0 0 17.4823 6766.6172 -497.5186)">
+				<stop  offset="1.000000e-02" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Path" class="st1" d="M30.1,25.2c0,3.4-2.7,6.1-6.1,6.2H11.8c-3.1,0.1-5.7-2.1-6.2-5.2S7,20.3,10,19.4
+				c0.3-3.1,2.9-5.5,6.1-5.5c3,0,5.5,2.1,6,5.1H24c1.6,0,3.2,0.7,4.4,1.8C29.5,22,30.1,23.6,30.1,25.2z"/>
+			
+				<linearGradient id="path-5_1_" gradientUnits="userSpaceOnUse" x1="-176.4641" y1="182.4888" x2="-177.4641" y2="183.4888" gradientTransform="matrix(2.64 0 0 2.64 486.7848 -442.01)">
+				<stop  offset="0" style="stop-color:#F5F6F8"/>
+				<stop  offset="1" style="stop-color:#DFE3E8"/>
+			</linearGradient>
+			<circle id="path-5" class="st2" cx="19.6" cy="41.1" r="1.3"/>
+			
+				<linearGradient id="path-7_1_" gradientUnits="userSpaceOnUse" x1="-208.7733" y1="129.4052" x2="-209.7733" y2="130.4052" gradientTransform="matrix(3.74 0 0 3.74 809.7768 -447.56)">
+				<stop  offset="0" style="stop-color:#F5F6F8"/>
+				<stop  offset="1" style="stop-color:#DFE3E8"/>
+			</linearGradient>
+			<circle id="path-7" class="st3" cx="27.1" cy="38.3" r="1.9"/>
+			
+				<linearGradient id="path-9_1_" gradientUnits="userSpaceOnUse" x1="-208.7719" y1="129.4065" x2="-209.7719" y2="130.4065" gradientTransform="matrix(3.74 0 0 3.74 792.9368 -449.4301)">
+				<stop  offset="0" style="stop-color:#F5F6F8"/>
+				<stop  offset="1" style="stop-color:#DFE3E8"/>
+			</linearGradient>
+			<circle id="path-9" class="st4" cx="10.3" cy="36.4" r="1.9"/>
+		</g>
+	</g>
+</g>
 </svg>

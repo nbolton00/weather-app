@@ -9,7 +9,7 @@ export const TodaysWeather = (props) => {
                 <p>Today in Vancouver, BC</p>
             </div>
             <div className="todaysIcon">
-                <img src={iconImageUrl} alt={props.summary}/>
+                <img src={iconImageUrl} alt={props.description}/>
                 <p>{props.description}</p>
             </div>
             <div className="todaysTemp">
