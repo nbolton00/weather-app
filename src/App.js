@@ -21,22 +21,35 @@ function App() {
         .then(json => {
           console.log(json)
           setDailyWeather(json.daily.slice(1));
-          setCurrentWeather(json.current);
+          const parsedDate = parseDate(json.current.dt);
+          const weather = {
+            icon: json.current.weather[0]['icon'],
+            description: json.current.weather[0]['description'],
+            temp: Math.round(json.current.temp),
+            feelslike: Math.round(json.current.feels_like),
+            day: parsedDate.day,
+            date: parsedDate.date
+          }
+          setCurrentWeather(weather);
         });
     };
     fetchData();
   }, []);
 
-  const getDay = (timestamp) =>{
+  const parseDate = (timestamp) =>{
     const days = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT']; 
-    const date = new Date(timestamp * 1000);
-    return days[date.getDay()];
+    const d = new Date(timestamp * 1000);
+    return {
+      date: d.getDate(),
+      day: days[d.getDay()]
+    }
   }
+
 
   return (
     <div className="App">
       <div className="App-header">
-        <TodaysWeather icon="10n" description="Well hot" temp="24°" feelslike="Feels like 28°"></TodaysWeather>
+        <TodaysWeather icon={currentWeather.icon} description={currentWeather.description} temp={currentWeather.temp} feelslike={currentWeather.feelslike} day={currentWeather.day} date={currentWeather.date}></TodaysWeather>
         
         <div className="dailyContainer">
             <h2>Next 7 days...</h2>
@@ -44,7 +57,7 @@ function App() {
 
               {dailyWeather.map((day, index) => {
                 return(
-                  <DailyWeather key={`day-${index}`} day={getDay(day.dt)} icon={day.weather[0]['icon']} temp={Math.round(day.temp.max)}></DailyWeather>
+                  <DailyWeather key={`day-${index}`} day={parseDate(day.dt).day} icon={day.weather[0]['icon']} temp={Math.round(day.temp.max)} description={day.weather[0]['description']}></DailyWeather>
                 )
               })}
 

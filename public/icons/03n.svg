@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="29px" viewBox="0 0 40 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>03n</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="24.4138914%" x2="0%" y2="75.5861086%" id="linearGradient-1">
+            <stop stop-color="#F5F6F8" offset="0%"></stop>
+            <stop stop-color="#DFE3E8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.8371844%" y1="78.4824835%" x2="79.402145%" y2="35.248232%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="1%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-287.000000, -16.000000)" fill-rule="nonzero">
+            <g id="03n" transform="translate(287.000000, 15.000000)">
+                <path d="M39.51,19.23 C39.51,24.706322 35.1059277,29.1642842 29.63,29.230003 L9.88,29.230003 C5.0116506,29.2321958 0.875059742,25.6706161 0.153988414,20.8559627 C-0.567082914,16.0413094 2.34460897,11.4241366 7,10 C7.5081948,4.93920859 11.7341862,1.06610042 16.82,1 C21.6785077,0.918451133 25.8508074,4.43736097 26.59,9.24 L29.66,9.24 C35.1202895,9.32191141 39.5051535,13.7690983 39.51,19.23 Z" id="path-2" fill="url(#linearGradient-1)"></path>
+                <path d="M27.1700258,23.25 C27.1756092,26.6365411 24.4464342,29.3925164 21.06,29.4202186 L8.85,29.4202186 C7.23494429,29.4279823 5.68329781,28.7919918 4.5384553,27.6527797 C3.39361279,26.5135675 2.74984691,24.9650754 2.74984691,23.35 C2.74328943,21.7341061 3.38864332,20.1838147 4.54,19.05 C5.24436084,18.3465409 6.1092013,17.8248911 7.06,17.53 C7.38925903,14.4146187 9.99750311,12.0384095 13.13,12 C16.1218602,11.9661769 18.6813835,14.1417717 19.13,17.1 L21.03,17.1 C24.4203622,17.1110033 27.164514,19.8596244 27.1700258,23.25 L27.1700258,23.25 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="33px" viewBox="0 0 40 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>02d</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="24.4460428%" x2="0%" y2="75.5539572%" id="linearGradient-1">
+            <stop stop-color="#F5F6F8" offset="0%"></stop>
+            <stop stop-color="#DFE3E8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.8369927%" y1="78.54622%" x2="79.4020194%" y2="35.2667849%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="1%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-262.000000, -56.000000)" fill-rule="nonzero">
+            <g id="02d" transform="translate(261.000000, 56.000000)">
+                <circle id="Oval" fill="#F4D35E" cx="29.54" cy="10.25" r="9.88"></circle>
+                <path d="M40.51,22.63 C40.51,28.106322 36.1059277,32.5642842 30.63,32.6305176 L10.88,32.6305176 C6.89116282,32.6537253 3.28346014,30.2646058 1.74848638,26.5828615 C0.213512611,22.9011173 1.05563668,18.656799 3.88,15.84 C5.03332308,14.6977699 6.44736475,13.8534634 8,13.38 C8.5081948,8.31920859 12.7341862,4.44610042 17.82,4.38 C22.6817751,4.29916184 26.8553019,7.82337843 27.59,12.63 L30.66,12.63 C36.1241805,12.7119719 40.5106148,17.1652048 40.51,22.63 Z" id="path-2" fill="url(#linearGradient-1)"></path>
+                <path d="M28.1701008,26.65 C28.1811195,30.0404378 25.4503445,32.8024983 22.06,32.8300975 L9.85,32.8300975 C8.23402127,32.8353157 6.68240648,32.1970936 5.53785601,31.0562958 C4.39330554,29.9154979 3.75,28.3659875 3.75,26.75 C3.75617335,24.0774143 5.50411165,21.7211448 8.06,20.94 C8.37506867,17.8127567 10.9871812,15.4201132 14.13,15.38 C17.1218602,15.3461769 19.6813835,17.5217717 20.13,20.48 L22.03,20.48 C25.4281674,20.4910286 28.1755344,23.2518192 28.1701008,26.65 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
